@@ -1,0 +1,51 @@
+Practica 1 Desarrollo de un contenedor lineal con una lista encadenada
+
+ ######## Pruebas con ficheros #####
+ Tiempos promedios en milisegundos por cada 1000 operaciones
+######## Tiempo promedio de insercion #####
+12.0
+35.5
+62.7
+83.6
+118.9
+141.9
+159.0
+188.5
+215.9
+250.5
+
+######## Tiempo promedio de extraccion#####
+256.9
+221.8
+193.7
+165.3
+134.9
+110.1
+86.5
+70.5
+36.8
+12.8
+
+######## Tiempo promedio de busqueda exitosa#####
+10.8
+22.15
+35.766666666666666
+50.75
+63.48
+76.06666666666666
+92.8
+108.7875
+125.24444444444444
+127.5
+
+######## Tiempo promedio de busqueda infructuosa#####
+25.8
+45.95
+66.7
+92.75
+111.15
+137.35
+159.3
+182.55
+203.25
+235.6
